@@ -4,7 +4,6 @@ body {
     margin: 0;
     padding: 0;
     background-image: url(Arquivos/Fundo.jpg);
-    background-repeat: no-repeat;
     background-size: 100% 100%;
     color: #333;
 }
@@ -13,6 +12,14 @@ body {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.container p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding: 25px;
+    margin: 20px;
+    text-align: center;
 }
 
 /* Cabeçalho */
